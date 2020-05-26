@@ -69,11 +69,3 @@ userdef.load = [...
 ];
 
 
-
-%%  Specify the branch index of line outages and the corresponding probability.
-% *************************************************************************
-
-
-
-
-
