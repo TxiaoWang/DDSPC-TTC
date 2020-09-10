@@ -7,7 +7,7 @@
 
 function ULTC = user_ULTC()
 
-%% 1. Description of the data
+%% 1. Description of the data 
 %  1: FBus? FROM bus number. 
 %  2: TBus? TO bus number.
 %  3: Meter end: 1-character metered end identifier used for area interchange control:
