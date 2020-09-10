@@ -8,8 +8,8 @@
 function ULTC = user_ULTC()
 
 %% 1. Description of the data 
-%  1: FBus? FROM bus number. 
-%  2: TBus? TO bus number.
+%  1: FBus: FROM bus number. 
+%  2: TBus: TO bus number.
 %  3: Meter end: 1-character metered end identifier used for area interchange control:
 %     'F' or blank FROM end of the ULTC transformer, 'T' TO end of the ULTC transformer.
 %  4: FRatio: Transformer FROM-side (primary) turns ratio in pu.
