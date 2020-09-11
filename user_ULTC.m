@@ -1,9 +1,12 @@
-%%*****************************************************************
-% This file defines the configuration of ULTC data required in    %
-% DSATools/PSAT ASCII Powerflow File Format.                      %
-%                                                                 %
-% This file is created by Xiaoting Wang, McGill University (2020) %
-%%***************************************************************** 
+%%********************************************************************
+% This file defines the configuration of ULTC data required in       %
+% DSATools/PSAT ASCII Powerflow File Format.                         %
+%                                                                    %
+% VSAT -- Voltage Security Assessment Tool, User manual 19.0 version %
+% Powertech Labs Inc. Surrey, British Columbia, Canada, 2019.        %
+%                                                                    %
+% This file is created by Xiaoting Wang, McGill University (2020)    %
+%%******************************************************************** 
 
 function ULTC = user_ULTC()
 
