@@ -5,6 +5,10 @@
 % VSAT -- Voltage Security Assessment Tool, User manual 19.0 version %
 % Powertech Labs Inc. Surrey, British Columbia, Canada, 2019.        %
 %                                                                    %
+% PSAT -- Powerflow & Short-circuit Analysis Tool,                   %
+% User manual 19.0 version， Powertech Labs Inc.                     %
+% Surrey, British Columbia, Canada, 2019.                            %
+%                                                                    %
 % This file is created by Xiaoting Wang, McGill University (2020)    %
 %%******************************************************************** 
 
