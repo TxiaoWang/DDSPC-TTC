@@ -1,0 +1,40 @@
+[VSAT 4.X Contingency]
+
+{Contingency}
+  Contingency name = 'A 1'
+  Outage Branch = 8030 5837 'Line231'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 2'
+  Outage Branch = 1758 352 'Line221'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 3'
+  Outage Branch = 5837 449 'Line1590'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 4'
+  Outage Branch = 5837 449 'Line1591'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 5'
+  Outage Branch = 5837 1817 'Line1592'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 6'
+  Outage Branch = 5837 2458 'Line1593'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 7'
+  Outage Branch = 7056 9051 'T122'
+{End contingency}
+{Contingency}
+  Contingency name = 'A  8 '
+  Outage Branch = 7438 1526 'Line652'
+{End contingency}
+{Contingency}
+  Contingency name = 'A 9 '
+  Outage Branch = 7438 5334 'Line651'
+{End contingency}
+
+[End]

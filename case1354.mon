@@ -1,0 +1,10 @@
+[VSAT 7.0 Monitored Variable]
+
+{Description}
+   No Description
+{End Description}
+
+Monitor name = ''
+kV Voltage of bus = 3
+
+[End]

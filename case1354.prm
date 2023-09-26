@@ -1,0 +1,8 @@
+[VSAT 7.1 Parameter]
+
+Transfer Analysis                                 = To First Limit
+Contingency Analysis                              = To First Insecure
+Modal Analysis                                    = At Stability Limit
+Check branch flows                                = T
+Use CPF to Trace PV Curve                         = At Stability Limit
+[End]
